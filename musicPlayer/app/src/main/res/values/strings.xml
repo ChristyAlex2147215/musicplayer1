@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">musicPlayer</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>imgdescr
+    <string name="imgdescr">Image Description</string>
+</resources>
